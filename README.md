@@ -1,12 +1,8 @@
 # Build a Static Site Generator with Python
 
-## Status
-
-**Draft**
-
 ## Overview
 
-This project is design to be completed on [Pluralsight](https://pluralsight.com). To find out more see here: [https://www.pluralsight.com/product/projects](https://www.pluralsight.com/product/projects).
+I discovered this project on Pluralsight and thought this would bew a great practice for me.
 
 ## Installation
 
@@ -31,14 +27,3 @@ $ pip install -r requirements.txt
 
 ### About pip
 Versions pip updates frequently, but versions greater than 10.x.x should work with this project.
-
-## Verify Setup
-
-In order to verify that everything is setup correctly, run the following command from the project root.
-```
-pytest
-```
-You should see that all the tests are failing. This is good! We’ll be fixing these tests once we jump into the build step. Every time you want to check your work locally you can type that command, and it will report the status of every task in the project.
-
-## Previewing Your Work
-You can preview your work by running the command `python ssg.py` after the first module.
