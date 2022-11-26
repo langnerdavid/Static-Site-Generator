@@ -2,7 +2,7 @@
 
 ## Overview
 
-I discovered this project on Pluralsight and thought this would bew a great practice for me.
+I discovered this project on Pluralsight and thought this project would bew a great practice for me. 
 
 ## Installation
 
